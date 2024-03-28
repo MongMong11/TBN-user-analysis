@@ -1,8 +1,5 @@
 # op_download_summary
 
-# op_download_summary
-This repository is used to store codes and procedures to summarize and visualize the download statistics of TBN-OP
-
 ### [OP_download_summary.R](https://github.com/TBNworkGroup/op_download_summary/blob/main/OP_download_summary.R) 說明
 
 2024 CABE 海報分析資料清理與轉換，以下為處理步驟:
