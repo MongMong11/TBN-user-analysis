@@ -53,7 +53,6 @@
 
 #### 5. Sankey plot繪製
 
-(1) R繪製出圖
 * data.table轉換各所屬單位、用途、類型和條件下，所擁有的下載筆數
 * re-order: 重新排序欄位內容
 * (alpha 參數調整: 根據筆數數量，調整Sankey plot各bar透明度調整)
