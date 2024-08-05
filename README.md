@@ -1,5 +1,7 @@
 # op_download_summary
 
+此GitHub存放2024年動物行為既生態研討會(CABE)展示壁報:讓TBN成為你的許願池!生物多樣性資料庫使用者的資料下載趨勢與需求(https://drive.google.com/file/d/1DbNRO_mBuRPkHOrR0rqq4-qsT-bVbY-E/view)，相關資料分析與視覺化所使用到R code程式碼。
+
 ### [OP_download_summary.R](https://github.com/TBNworkGroup/op_download_summary/blob/main/OP_download_summary.R) 說明
 
 2024 CABE 海報分析資料清理與轉換，以下為處理步驟:
