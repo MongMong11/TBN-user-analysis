@@ -59,7 +59,3 @@
 * re-order: 重新排序欄位內容
 * (alpha 參數調整: 根據筆數數量，調整Sankey plot各bar透明度調整)
 * ggplot: Sankey plot參數調整&繪製
-
-**輸出完成圖**
-
-![Rplot19](https://github.com/TBNworkGroup/op_download_summary/assets/46275621/0501be5d-195a-40bd-be52-1cee5d99d74e)
